@@ -1,30 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: April 3, Sunday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: None, decided to have a go at the 100 days of code challenge. Have cleaned out a twitter account to focus on my coding.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:**
+Worried about my commitment. Want this to be a successful experience.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+**Link to work:** 
+[Twitter Account](https://twitter.com/mattbooker401)
 
 ### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: GitHub set up and working. Decided to build a twitter follower analyser as my first small project. Should be easy enough to launch myself into the challenge. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I need to spend some time going through the other member of the challenge. Reasons are two fold, check to see the kinds of this others are doing, and to bring my formatting up to scratch. 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [GitHub Repro](https://github.com/mattb00ker/100-days-of-code)
+2. 
