@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 3, Sunday
-
+### Day 0: April 10, Sunday
 
 **Today's Progress**: None, decided to have a go at the 100 days of code challenge. Have cleaned out a twitter account to focus on my coding.
 
@@ -11,7 +10,8 @@ Worried about my commitment. Want this to be a successful experience.
 **Link to work:** 
 [Twitter Account](https://twitter.com/mattbooker401)
 
-### Day 1: June 27, Monday
+
+### Day 1: April 11, Monday
 
 **Today's Progress**: GitHub set up and working. Decided to build a twitter follower analyser as my first small project. Should be easy enough to launch myself into the challenge. 
 
@@ -27,7 +27,8 @@ Did learn about Twitter userID's, used the following website to discover those i
 1. [GitHub Repro](https://github.com/mattb00ker/100-days-of-code)
 2. [Code I played with](https://github.com/mattb00ker/My100Days/blob/main/followerAnalyser.py)
 
-### Day 1: June 27, Monday
+
+### Day 2: April 12, Tuesday
 
 **Today's Progress**: After yesterday I wanted more to show for my efforts, at least I didn't want to keep slamming my head into a brick wall. Decided to change tact (at least in the short term), today i spent my time getting back into JavaScript. It's been years since I last wrote some, and I feel very rusty (remember those semicolons is a giggle). I started the Odin Project some months back (another unfinished challenge started with the best of intentions), so I picked up where I left off in their JavaScript thread. 
 
@@ -36,11 +37,21 @@ Did learn about Twitter userID's, used the following website to discover those i
 * How to view the console log on both safari and chrome (SOLVED)
 * Having JS material displayed as website opens (UNSOLVED)
 
-
-
-
 **Thoughts**: Not sure if JS can be run as a website opens, think it needs a trigger (like a button), I do wonder if there's an "as website opens" function/command. Not seeing the huge advantage of JS yet. Looking forward to getting further into it.
 
 **Link(s) to work**
 1. [GitHub Repro](https://github.com/mattb00ker/My100Days/tree/main/JavaScript)
 2. [Odin Project](https://www.theodinproject.com/lessons/foundations-fundamentals-part-2)
+
+
+### Day 3: April 13, Wednesday
+
+**Today's Progress**: 
+
+**Today's Problems**: 
+* 
+
+**Thoughts**: 
+
+**Link(s) to work**
+1. []()

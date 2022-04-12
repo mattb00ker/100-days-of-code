@@ -11,3 +11,5 @@ Didn't go so well, learned the responce method in python. Reassessing in the mor
 
 ### R1D2
 Spent today jumping back in with JavaScript. Reasonably enjoyable, need to remember my semicolons! May jump back in later, while learnign the essentials is essential, it doesn't set the world on fire (I know it gets more interesting).
+
+### R1D3
