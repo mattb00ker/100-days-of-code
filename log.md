@@ -26,3 +26,21 @@ Did learn about Twitter userID's, used the following website to discover those i
 **Link(s) to work**
 1. [GitHub Repro](https://github.com/mattb00ker/100-days-of-code)
 2. [Code I played with](https://github.com/mattb00ker/My100Days/blob/main/followerAnalyser.py)
+
+### Day 1: June 27, Monday
+
+**Today's Progress**: After yesterday I wanted more to show for my efforts, at least I didn't want to keep slamming my head into a brick wall. Decided to change tact (at least in the short term), today i spent my time getting back into JavaScript. It's been years since I last wrote some, and I feel very rusty (remember those semicolons is a giggle). I started the Odin Project some months back (another unfinished challenge started with the best of intentions), so I picked up where I left off in their JavaScript thread. 
+
+**Today's Problems**: 
+* Running JS from an external file (SOLVED)
+* How to view the console log on both safari and chrome (SOLVED)
+* Having JS material displayed as website opens (UNSOLVED)
+
+
+
+
+**Thoughts**: Not sure if JS can be run as a website opens, think it needs a trigger (like a button), I do wonder if there's an "as website opens" function/command. Not seeing the huge advantage of JS yet. Looking forward to getting further into it.
+
+**Link(s) to work**
+1. [GitHub Repro](https://github.com/mattb00ker/My100Days/tree/main/JavaScript)
+2. [Odin Project](https://www.theodinproject.com/lessons/foundations-fundamentals-part-2)
