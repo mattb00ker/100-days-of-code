@@ -46,6 +46,23 @@ Did learn about Twitter userID's, used the following website to discover those i
 
 ### Day 3: April 13, Wednesday
 
+**Today's Progress**: Continued where i left off yesterday with JavaScript. Spent the first part of my hour brushing up on syntax, but as this isn't my first time with the language I decided the best way to continue was to build something. I settled on a card game of some sort. I'm not sure if i want to build a simple 'higher or lower' type game, or something more interesting like the game 'arsehole'. Anyway, I built a simple test page and started writing the JS. So far i've initiated an array to hold the deck of cards, have populated the array with some sample cards (i've used the nomencleture of AH for the ace of hearts for example). Once this was completed i wrote a function to pick a random card from the deck. 
+
+**Today's Problems**: 
+* None really, I need to decide what to do with the game first thing tomorrow, the structure is required!!
+
+**Thoughts**: After deciding exactly what type of game to produce, I need to build a function to remove cards from the active (unused) deck. I should probably also decide on my variables at the same time. tomorrow may be conducted entirely on paper (or a suitable paper alternative).
+
+**Link(s) to work**
+1. [GitHub for a higher and lower game](https://github.com/arunkal1/Higher-Or-Lower/blob/master/js/app.js)
+2. [card game website](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardGame.html)
+3. [card game JS](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardSelector.js)
+4. [info on random function](https://www.w3schools.com/JS/js_random.asp)
+5. [finding array lengths](https://www.w3schools.com/jsref/jsref_length_array.asp)
+
+
+### Day 4: April 14, Thursday
+
 **Today's Progress**: 
 
 **Today's Problems**: 
