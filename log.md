@@ -78,6 +78,22 @@ While dealing with the verious issues I had (things like changing board types), 
 
 ### Day 5: April 15, Friday
 
+**Today's Progress**: Today I got back into JavaScript. I went back over the content I'd previosuly covered in building a number of functions. I then moved forward by both passing data between functions, and implamenting a switch case situcation to handle the scoring. I've decided to limit the scope of this card game to a simple higher and lower game. Short term goal is to finish the game over the weekend, then upload it to my website. Happy with the variables i have settled on.
+
+**Today's Problems**: 
+* None, though i still need to remove the cards from the active deck, this shouldn't be too hard, in theory.
+
+**Thoughts**: I worry that I'm not streching myself enough. I am still early in the process, but i haven't come across any issues that i haven't been able to overcome, or understand, and I worry that this is a sign that I'm not pushing myself, and will therefore never make the jump between hobbist and professional. Ho humm...
+
+**Link(s) to work**
+1. [simple webpage i've been using](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardGame.html)
+2. [the java script that goes with it](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardSelector.js)
+3. [switch statement support](https://www.w3schools.com/js/js_switch.asp)
+4. [return statement support](https://www.w3schools.com/jsref/jsref_return.asp)
+
+
+### Day 6: April 16, Saturday
+
 **Today's Progress**: 
 
 **Today's Problems**: 

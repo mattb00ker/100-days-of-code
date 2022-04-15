@@ -17,3 +17,6 @@ Today I continued with JavaScript. I spent my time brushing up on  my syntax. I 
 
 ### R1D4
 No "proper" code today. Spent my time problem solving issues with VS Code. Will get back into the JS tomorrow.
+
+### R1D5
+Got back into it today. Spent my time building functions in JavaScript, passing values between them, and then implamenting a switch case situation to deal with some simple card scoring.
