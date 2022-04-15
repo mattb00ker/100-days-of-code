@@ -63,6 +63,21 @@ Did learn about Twitter userID's, used the following website to discover those i
 
 ### Day 4: April 14, Thursday
 
+**Today's Progress**: No JavaScript today, instead i spent my time uploading the tinyGS operating system to a T-Beam LoRa board. This should have been quite straight forward, but there were issues I was unawear of when I started this morning. Today I became much more familiar with both platform.io, and VS Code. The issues I was having resulted in me going back over a process (uploading code to a smaller comuting device) I have done thousands of times. I am really enjoying using VS Code, and can see myself sticking with it for a while.
+
+While dealing with the verious issues I had (things like changing board types), I did consider my own problem solving technique. Attacking a problem in a logical way yields the best results. Although others have managed to upload the firmwhere to the board type from my computer type, it didn't benefit me to struggle against why the drivers weren't working for me. I know how to load firmwhere, I've done it hundreds of times, after realising that the issue wasn't with my knowledge of VS Code, I was right to give up, switch to a windows based machine, and perform the update that way. 
+
+**Today's Problems**: 
+* Drivers are a pain
+
+**Thoughts**: Make sure the problem you are trying to solve is fixable. There is a difference between not giving up, and flogging a dead horse. 
+
+**Link(s) to work**
+1. [Working tinyGS](https://tinygs.com/station/M0WHU@5051483323)
+
+
+### Day 5: April 15, Friday
+
 **Today's Progress**: 
 
 **Today's Problems**: 

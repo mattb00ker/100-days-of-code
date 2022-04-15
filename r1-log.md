@@ -16,3 +16,4 @@ Spent today jumping back in with JavaScript. Reasonably enjoyable, need to remem
 Today I continued with JavaScript. I spent my time brushing up on  my syntax. I then chose to produce a simple card game to play with JS and test my skills. I built a test webpage to help run the code, and started producing my java script.
 
 ### R1D4
+No "proper" code today. Spent my time problem solving issues with VS Code. Will get back into the JS tomorrow.
