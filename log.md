@@ -94,6 +94,20 @@ While dealing with the verious issues I had (things like changing board types), 
 
 ### Day 6: April 16, Saturday
 
+**Today's Progress**: Kept on with the Java Script. Refined the webpage to add control buttons. Also added a forth button to observe the behaviour of my cardOne and cardTwo variables. Realised that I need to rethink and encorpourate classes mroe fundimentally. need to able to assign values to cards (though i may be able to do this though the return function... problem for future Matt)
+
+**Today's Problems**: 
+* Need to link rank to card name
+
+**Thoughts**: Need to learn more about classes, might be able to get away with the return function
+
+**Link(s) to work**
+1. [html](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardGame.html)
+2. [JS](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardSelector.js)
+
+
+### Day 7: April 17, Sunday
+
 **Today's Progress**: 
 
 **Today's Problems**: 

@@ -20,3 +20,8 @@ No "proper" code today. Spent my time problem solving issues with VS Code. Will 
 
 ### R1D5
 Got back into it today. Spent my time building functions in JavaScript, passing values between them, and then implamenting a switch case situation to deal with some simple card scoring.
+
+### R1D6
+Met some challenges when trying to work out scoring comparisons today. need to rethink my code, good excuse to learn a little more about objects tomorrow.
+
+### R1D7
