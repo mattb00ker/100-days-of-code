@@ -108,6 +108,22 @@ While dealing with the verious issues I had (things like changing board types), 
 
 ### Day 7: April 17, Sunday
 
+**Today's Progress**: Sorted ranking system, which allowed the win/loss functions to work. Additionally I implamented a scoring system which resests on every loss. I still haven't sorted a system to remove cards from the active deck, i should do this!!! Started learning about DOM manipulation towards the end of my hour. Did go back and add a function for removing the cards form the deck, ended up being easiest to call the function right after requesting a new card.
+
+**Today's Problems**: 
+* Still need to remove acrds from the active deck (done)
+* Need to have the JS interest with the html
+* Need to add the rest of the deck.
+
+**Thoughts**: Need to just keep plodding forwards. The tasks i am undertaking will only become more complex the more time i dedicate to them!
+
+**Link(s) to work**
+1. [my html](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardGame.html)
+2. [my js](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardSelector.js)
+3. [DOM manipulation](https://www.w3schools.com/js/js_htmldom.asp)
+
+### Day 8: April 18, Monday
+
 **Today's Progress**: 
 
 **Today's Problems**: 

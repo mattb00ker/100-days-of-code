@@ -25,3 +25,6 @@ Got back into it today. Spent my time building functions in JavaScript, passing 
 Met some challenges when trying to work out scoring comparisons today. need to rethink my code, good excuse to learn a little more about objects tomorrow.
 
 ### R1D7
+values assigned to cards using the return function, scoring system also introduced. Everything checked with the HTML file. Started learning about DOM manipulation.
+
+### R1D7
