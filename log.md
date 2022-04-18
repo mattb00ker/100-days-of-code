@@ -111,8 +111,8 @@ While dealing with the verious issues I had (things like changing board types), 
 **Today's Progress**: Sorted ranking system, which allowed the win/loss functions to work. Additionally I implamented a scoring system which resests on every loss. I still haven't sorted a system to remove cards from the active deck, i should do this!!! Started learning about DOM manipulation towards the end of my hour. Did go back and add a function for removing the cards form the deck, ended up being easiest to call the function right after requesting a new card.
 
 **Today's Problems**: 
-* Still need to remove acrds from the active deck (done)
-* Need to have the JS interest with the html
+* Still need to remove cards from the active deck (done)
+* Need to have the JS interact with the html
 * Need to add the rest of the deck.
 
 **Thoughts**: Need to just keep plodding forwards. The tasks i am undertaking will only become more complex the more time i dedicate to them!
@@ -122,7 +122,26 @@ While dealing with the verious issues I had (things like changing board types), 
 2. [my js](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardSelector.js)
 3. [DOM manipulation](https://www.w3schools.com/js/js_htmldom.asp)
 
+
 ### Day 8: April 18, Monday
+
+**Today's Progress**: Not a huge amount to show for today. I did spend my time reviewing different options for displaying data through the Twitter API. None of the methods I explored met my criteria (I really want to use tables!). I looked at self generated graphs, self generated images, and the use of the formatting command in python. 
+
+**Today's Problems**: 
+* Twitter hates tables!
+
+**Thoughts**: Either, write a script for inserting tables into tweets, or let this one go. 
+
+This seems like my only option, I want to use a table. I may return to ASCII formatting, this may be an option (though very old fashioned (although this may appeal to the target audience in itself)).
+
+**Link(s) to work**
+1. [fotmatting in ptyhon](https://www.w3schools.com/python/ref_string_format.asp)
+2. [auto generated images](https://auth0.com/blog/how-to-make-a-twitter-bot-in-python-using-tweepy/)
+3. [something to look at tomorrow?](https://towardsdatascience.com/tweepy-for-beginners-24baf21f2c25)
+
+
+
+### Day 9: April 19, Tuesday
 
 **Today's Progress**: 
 

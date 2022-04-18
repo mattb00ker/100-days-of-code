@@ -27,4 +27,7 @@ Met some challenges when trying to work out scoring comparisons today. need to r
 ### R1D7
 values assigned to cards using the return function, scoring system also introduced. Everything checked with the HTML file. Started learning about DOM manipulation.
 
-### R1D7
+### R1D8
+Moved back to python for today. looked at different ways of displaying data using twitter. images, graphs, and text formatting were all explored. Tables remain out of reach.
+
+### R1D9
