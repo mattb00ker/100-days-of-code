@@ -143,6 +143,24 @@ This seems like my only option, I want to use a table. I may return to ASCII for
 
 ### Day 9: April 19, Tuesday
 
+**Today's Progress**: Added some more cards to both the initial array, and the value function. All cards added worked without issue. Game made much harder (I may just be tired!). Also looked into LoRa on a meshtastic network. There may be some scope in producing code to track airplanes, definately something for me to look into
+
+**Today's Problems**: 
+* None
+
+**Thoughts**: Need to find a away to create more hours in a day/dedicate enough time to everything without feeling that i'm neglecting any single aspect of my life... answers on a postcard.
+
+**Link(s) to work**
+1. [my html](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardGame.html)
+2. [my js](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardSelector.js)
+3. [DOM manipulation](https://www.w3schools.com/js/js_htmldom.asp)
+4. [something to look at tomorrow?](https://towardsdatascience.com/tweepy-for-beginners-24baf21f2c25)
+
+
+
+
+### Day 10: April 20, Wednesday
+
 **Today's Progress**: 
 
 **Today's Problems**: 

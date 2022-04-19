@@ -31,3 +31,4 @@ values assigned to cards using the return function, scoring system also introduc
 Moved back to python for today. looked at different ways of displaying data using twitter. images, graphs, and text formatting were all explored. Tables remain out of reach.
 
 ### R1D9
+Kept on pluggin away at my Java Script today. Also looked into LoRa on a meshtastic board, I may want to produce an airplane tracker at some point.
