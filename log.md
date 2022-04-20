@@ -161,6 +161,20 @@ This seems like my only option, I want to use a table. I may return to ASCII for
 
 ### Day 10: April 20, Wednesday
 
+**Today's Progress**: Good day. Finally launched into DOM manipulation. Have the JS updating the HTML with the score and the current card. Happy with the progress I've made, always a good feeling when you try something you learned in another language and it transfers over with minimal change! I've also started cleaning up the HTML
+
+**Today's Problems**: 
+* None
+
+**Thoughts**: Very happy wih today's work, would love to push through and add some of the things i'm about to list. Need to clean up my HTML and JS, in my haste I also need to go back and comment all of the work. Tmorrow I'd like to look at the possibility of introducing pictures, also getting a better hod in my web design.
+
+**Link(s) to work**
+1. [my html](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardGame.html)
+2. [my js](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardSelector.js)
+3. [something to look at tomorrow?](https://towardsdatascience.com/tweepy-for-beginners-24baf21f2c25)
+
+### Day 11: April 21, Thursday
+
 **Today's Progress**: 
 
 **Today's Problems**: 

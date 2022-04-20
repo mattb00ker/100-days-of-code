@@ -32,3 +32,6 @@ Moved back to python for today. looked at different ways of displaying data usin
 
 ### R1D9
 Kept on pluggin away at my Java Script today. Also looked into LoRa on a meshtastic board, I may want to produce an airplane tracker at some point.
+
+### R1D10
+Finally got into DOM manipulation, god that's fun!. Now have the console commands updating the HTML to give actual views of both the cards and the score. Test buttons removed.
