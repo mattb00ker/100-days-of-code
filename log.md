@@ -140,7 +140,6 @@ This seems like my only option, I want to use a table. I may return to ASCII for
 3. [something to look at tomorrow?](https://towardsdatascience.com/tweepy-for-beginners-24baf21f2c25)
 
 
-
 ### Day 9: April 19, Tuesday
 
 **Today's Progress**: Added some more cards to both the initial array, and the value function. All cards added worked without issue. Game made much harder (I may just be tired!). Also looked into LoRa on a meshtastic network. There may be some scope in producing code to track airplanes, definately something for me to look into
@@ -157,8 +156,6 @@ This seems like my only option, I want to use a table. I may return to ASCII for
 4. [something to look at tomorrow?](https://towardsdatascience.com/tweepy-for-beginners-24baf21f2c25)
 
 
-
-
 ### Day 10: April 20, Wednesday
 
 **Today's Progress**: Good day. Finally launched into DOM manipulation. Have the JS updating the HTML with the score and the current card. Happy with the progress I've made, always a good feeling when you try something you learned in another language and it transfers over with minimal change! I've also started cleaning up the HTML
@@ -173,14 +170,15 @@ This seems like my only option, I want to use a table. I may return to ASCII for
 2. [my js](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardSelector.js)
 3. [something to look at tomorrow?](https://towardsdatascience.com/tweepy-for-beginners-24baf21f2c25)
 
-### Day 11: April 21, Thursday
 
-**Today's Progress**: 
+### Day 11: April 23, Saturday
+
+**Today's Progress**: Returned to coding today, and returned to CSS. Went back over using flex, and built a couple of containers. Added background colour to the page, and am stopping there. 
 
 **Today's Problems**: 
-* 
+* moreving items around a webpage. Still need to spend more time with flex.
 
-**Thoughts**: 
+**Thoughts**: spend more time with flex.
 
 **Link(s) to work**
-1. []()
+1. [to be added tomorrow]()
