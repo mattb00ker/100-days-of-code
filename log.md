@@ -181,4 +181,21 @@ This seems like my only option, I want to use a table. I may return to ASCII for
 **Thoughts**: spend more time with flex.
 
 **Link(s) to work**
-1. [to be added tomorrow]()
+1. [html](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardGame.html)
+2. [css](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/style.css)
+
+
+### Day 12: April 24, Sunday
+
+**Today's Progress**: Continued again with flex and css, still not happy with my understanding of the concepts, will be returning to it tomorrow. Also spent some time messing around with the colours of different aspects, happy with the changes i made, and the way i set them up. 
+
+**Today's Problems**: 
+* Still not happy with my understanding of flex
+* Was having issues with commiting changes to github. Although now fixed, this is something i'll need to keep an eye on.
+
+**Thoughts**: 
+Need to keep bashing away with flex, seems like my new tkinter, in a scary number of ways. All that needed was some thinking time too :)
+
+**Link(s) to work**
+1. [html](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardGame.html)
+2. [css](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/style.css)

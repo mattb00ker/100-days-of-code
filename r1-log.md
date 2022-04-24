@@ -36,5 +36,10 @@ Kept on pluggin away at my Java Script today. Also looked into LoRa on a meshtas
 ### R1D10
 Finally got into DOM manipulation, god that's fun!. Now have the console commands updating the HTML to give actual views of both the cards and the score. Test buttons removed.
 
-### R1D10 
+### R1D11
 Returned to basics and went back over flex for CSS. Center aligned the game, built two different containers, more work needed on flex.
+
+### R1D12
+Continued with flex and css, still not happy with my understanding of flex. Need to continue down this path, website orientation is important.
+
+### R1D13
