@@ -43,3 +43,4 @@ Returned to basics and went back over flex for CSS. Center aligned the game, bui
 Continued with flex and css, still not happy with my understanding of flex. Need to continue down this path, website orientation is important.
 
 ### R1D13
+Continued with flex, moving things around webpages with varying degrees of success!

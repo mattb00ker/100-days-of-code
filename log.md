@@ -199,3 +199,34 @@ Need to keep bashing away with flex, seems like my new tkinter, in a scary numbe
 **Link(s) to work**
 1. [html](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardGame.html)
 2. [css](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/style.css)
+
+
+### Day 13: April 25, Monday
+
+**Today's Progress**: Much the same as yesterday, watched a good video on flex and continued to push things around my little website. 
+
+**Today's Problems**: 
+* Still not happy with my understanding of flex
+
+**Thoughts**: Not a huge amount to add here, I'm making progress, but the penny hasn't dropped yet. Will get back to it tomorrow. I will crack it!
+
+
+**Link(s) to work**
+1. [html](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardGame.html)
+2. [css](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/style.css)
+3. [video](https://www.youtube.com/watch?v=fYq5PXgSsbE)
+
+
+### Day 14: April 26, Tuesday
+
+**Today's Progress**: 
+
+**Today's Problems**: 
+* 
+* 
+
+**Thoughts**: 
+
+
+**Link(s) to work**
+1. []()
