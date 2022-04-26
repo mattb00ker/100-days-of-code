@@ -44,3 +44,6 @@ Continued with flex and css, still not happy with my understanding of flex. Need
 
 ### R1D13
 Continued with flex, moving things around webpages with varying degrees of success!
+
+### R1D14
+Still getting through flex. Made some progress, produced a cleaner webpage to work on. all functionality carried over, just cleaner and easier to track changes.

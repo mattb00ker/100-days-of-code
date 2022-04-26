@@ -210,7 +210,6 @@ Need to keep bashing away with flex, seems like my new tkinter, in a scary numbe
 
 **Thoughts**: Not a huge amount to add here, I'm making progress, but the penny hasn't dropped yet. Will get back to it tomorrow. I will crack it!
 
-
 **Link(s) to work**
 1. [html](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/cardGame.html)
 2. [css](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/style.css)
@@ -218,6 +217,23 @@ Need to keep bashing away with flex, seems like my new tkinter, in a scary numbe
 
 
 ### Day 14: April 26, Tuesday
+
+**Today's Progress**: Still at it. Rebuilt the webpage to gain greater ease of use. Move everything to the center of the page, though have now lost the ability to effectively control the different aspect. Short term goals for tomorrow are to add a background, and short the buttons out. Longer term goals are to understand inheritance in JS. Found a template to help with my understanding :)
+
+**Today's Problems**: 
+* Lost the ability to effectively control aspects of the website (ie the buttons)
+* 
+
+**Thoughts**: Must keep swimming! Want to load my website onto my new template, job for the weekend maybe :)
+
+**Link(s) to work**
+1. [new webpage](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/higherlower.html)
+2. [new non working css](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/style.css)
+3. [template webpage](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/template.html)
+4. [template css](https://github.com/mattb00ker/My100Days/blob/main/JavaScript/template.css)
+
+
+### Day 15: April 27, Wednesday
 
 **Today's Progress**: 
 
