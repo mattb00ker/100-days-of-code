@@ -235,7 +235,7 @@ Need to keep bashing away with flex, seems like my new tkinter, in a scary numbe
 
 ### Day 15: April 27, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: Good day of flex. Items moved as desired, all formatting is as i wanted. Quite happ with my progress :)
 
 **Today's Problems**: 
 * 
@@ -243,6 +243,33 @@ Need to keep bashing away with flex, seems like my new tkinter, in a scary numbe
 
 **Thoughts**: 
 
+**Link(s) to work**
+1. []()
+
+
+### Day 16: May 1, Sunday
+
+**Today's Progress**: Got back in to it with the introduction of a reset feature. Started to added a high score system, but i havent managed to get it working yet, job for tomorrow. All cards now added to the full dack of 52.
+
+**Today's Problems**: 
+* Highscore not displaying, not sure if the designed function is even being called.
+* Energy levels are low
+
+**Thoughts**: After taking two days off my energy levels are still not back where i'd like them to be. Being a teacher, this is the busiest time of the year (2 weeks until exams start, these are also the first exams for two years). 
+
+**Link(s) to work**
+1. [Same as prevous!]()
+
+
+### Day 15: April 28, Thursday
+
+**Today's Progress**: 
+
+**Today's Problems**: 
+* 
+* 
+
+**Thoughts**: 
 
 **Link(s) to work**
 1. []()

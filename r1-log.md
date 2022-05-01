@@ -47,3 +47,9 @@ Continued with flex, moving things around webpages with varying degrees of succe
 
 ### R1D14
 Still getting through flex. Made some progress, produced a cleaner webpage to work on. all functionality carried over, just cleaner and easier to track changes.
+
+### R1D15
+Good day of flex. Positioned items exactly as i wanted them. Lost atributes added back. Mini project completed in all real regards. Pictures of cards could be added (entire deck of cards could be added too!!).
+
+### R1D16
+Started adding new features, game now fully rests when "new game" is selected, high score system started on, though not working yet, will return to this tomorrow.
