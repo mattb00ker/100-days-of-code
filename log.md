@@ -261,12 +261,12 @@ Need to keep bashing away with flex, seems like my new tkinter, in a scary numbe
 1. [Same as prevous!]()
 
 
-### Day 15: April 28, Thursday
+### Day 17: July 5, Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: Arhhh, well i properly fell off. No excuses, just need to get back on. Going to start by adding a blog to my website. I've been looking at a couple of the static frameworks, but i'm not sure if they're really for me, it seems that you add the information, click 'go', the software builds the HTML, then you add that to your site. What i imagined is a seperate system where you write the article, click a button and it's added to the database (i assume that's how most of them work). I could have a go at building my own system using mysql, this would be a huge amount of work however, but i'd only need to do it once!
 
 **Today's Problems**: 
-* 
+*  working out the best way forward to added a blog to my website.
 * 
 
 **Thoughts**: 
