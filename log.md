@@ -281,6 +281,8 @@ Need to keep bashing away with flex, seems like my new tkinter, in a scary numbe
 
 WARNING:tensorflow:Detecting that an object or model or tf.train.Checkpoint is being deleted with unrestored values. See the following logs for the specific values in question.
 
+Didn't manage to fix the bug, did manage to replicate it. Did manage to restart project odin. have started a course on js, all set up on my laptop, lesson 01 passed.
+
 **Today's Problems**: 
 *  removing my tensor flow error
 *  getting back on with project Odin
@@ -290,3 +292,4 @@ WARNING:tensorflow:Detecting that an object or model or tf.train.Checkpoint is b
 **Link(s) to work**
 1. [RNN](https://github.com/mattb00ker/My100Days/blob/main/RNN.py)
 2. [text gen](https://github.com/mattb00ker/My100Days/blob/main/genTxt.py)
+3. [JS exercise](https://github.com/mattb00ker/javascript-exercises/tree/main/01_helloWorld)
