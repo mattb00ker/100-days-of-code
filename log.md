@@ -273,3 +273,20 @@ Need to keep bashing away with flex, seems like my new tkinter, in a scary numbe
 
 **Link(s) to work**
 1. []()
+
+
+### Day 1: March 27, Monday
+
+**Today's Progress**: So far nothing today, but i managed to get back on the horse yesterday! Built a RNN, and trained it on the tweets of the Donald! Really happy to actually write some code again, it had been almost a year! I broke the rpoject in two, producing a program that would train the model, and one to generate text. The only problem i have (other than the quiality of the data) I that it keep spitting out errs at the end, see below. Today i plan to fix the bug, and get back on with project Odin
+
+WARNING:tensorflow:Detecting that an object or model or tf.train.Checkpoint is being deleted with unrestored values. See the following logs for the specific values in question.
+
+**Today's Problems**: 
+*  removing my tensor flow error
+*  getting back on with project Odin
+
+**Thoughts**: 
+
+**Link(s) to work**
+1. [RNN](https://github.com/mattb00ker/My100Days/blob/main/RNN.py)
+2. [text gen](https://github.com/mattb00ker/My100Days/blob/main/genTxt.py)

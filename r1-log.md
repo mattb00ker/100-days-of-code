@@ -53,3 +53,6 @@ Good day of flex. Positioned items exactly as i wanted them. Lost atributes adde
 
 ### R1D16
 Started adding new features, game now fully rests when "new game" is selected, high score system started on, though not working yet, will return to this tomorrow.
+
+### R2D1
+Got back on horse, build neural network. Today i plan on fixing some errors and getting back to the Odin Project
