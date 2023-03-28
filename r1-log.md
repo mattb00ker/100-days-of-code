@@ -56,3 +56,6 @@ Started adding new features, game now fully rests when "new game" is selected, h
 
 ### R2D1
 Got back on horse, build neural network. Today i plan on fixing some errors and getting back to the Odin Project. Didn't manage to fix the error, but i did reproduce them. Proect Odin restarted, looking at JS.
+
+### R2D2
+Continued with project odin, completed another exercise. Also continued on my quest to fix the RNN, will have this sorted, but may need to rewrite my text generator!

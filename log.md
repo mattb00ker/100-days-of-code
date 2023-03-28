@@ -293,3 +293,35 @@ Didn't manage to fix the bug, did manage to replicate it. Did manage to restart 
 1. [RNN](https://github.com/mattb00ker/My100Days/blob/main/RNN.py)
 2. [text gen](https://github.com/mattb00ker/My100Days/blob/main/genTxt.py)
 3. [JS exercise](https://github.com/mattb00ker/javascript-exercises/tree/main/01_helloWorld)
+
+
+### Day 2: March 28, Tuesday
+
+**Today's Progress**: Continued through the JS series i started yesterday, no big issues. Created a fuction that printed text a set number of times. Like the format i am using. There are only 12 lessons, i hope they become much more difficault! Had another swing at the tensor flow issue, still not there though getting closer. One problem I have is that i simply don't know enough about the lib. I've botched together something and to be honest I'm not sure exactly how it works. I understand the theory entirly, but it's moved on since I taught it, need to read the documentation, should have a chance soon, but tonight, i'm tired and i realise this will need me to rewrite the generator, and possibly the model builder.
+
+**Today's Problems**: 
+*  TF errors
+*  Energy
+
+**Thoughts**: semi colons are nice, didn't have an issue with themt today, though i did when i first learned JS back in the day. all in all good fun. It's the end of another term at school, my energy levels are non-existant, but i started now concisously, holiday next week, loads of time to tinker!!
+
+**Link(s) to work**
+1. [JS day 2](https://github.com/mattb00ker/javascript-exercises/tree/main/02_repeatString)
+2. []()
+3. []()
+
+
+### Day 1: March 27, Monday
+
+**Today's Progress**: 
+
+**Today's Problems**: 
+*  
+*  
+
+**Thoughts**: 
+
+**Link(s) to work**
+1. []()
+2. []()
+3. []()
