@@ -59,3 +59,6 @@ Got back on horse, build neural network. Today i plan on fixing some errors and 
 
 ### R2D2
 Continued with project odin, completed another exercise. Also continued on my quest to fix the RNN, will have this sorted, but may need to rewrite my text generator!
+
+### R2D3
+Worked through another exercise, completed it without support, syntax is coming back! Completed the reversing text exercise, enjoyed it, exactly the right amount of challenge, looking forward to it ramping up though.

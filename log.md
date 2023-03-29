@@ -311,6 +311,23 @@ Didn't manage to fix the bug, did manage to replicate it. Did manage to restart 
 3. []()
 
 
+### Day 3: March 29, Wednesday
+
+**Today's Progress**: continued through project odin. completed an exercise reversing text, was easy enough, placed the string into an array, then added the character back into a string by accessing the length of the string, then removing one each cycle of a while loop. Had to remember zero indexing, so starting from one lower than the length, and progressing until the zero value has been added. I haven't even looked at the tensor flow material, I'm far too tired. I'm going to read a book on british programming houses!
+
+**Today's Problems**: 
+*  Zero indexing
+*  Remembering syntax!
+
+**Thoughts**: 
+
+**Link(s) to work**
+1. [reverse string](https://github.com/mattb00ker/javascript-exercises/tree/main/03_reverseString)
+2. []()
+3. []()
+
+
+
 ### Day 1: March 27, Monday
 
 **Today's Progress**: 
