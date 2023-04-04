@@ -328,6 +328,22 @@ Didn't manage to fix the bug, did manage to replicate it. Did manage to restart 
 
 
 
+### Day 4: April 4, Tuesday
+
+**Today's Progress**: I've been slowly refining how I use stable diffusion the AI art generating program. I may have been rubbish at keeping this log, but there haven't been many hours in which i haven't been tinkering on the laptop. I've installed a new instance of stable diffusion. I already had a version of the software running in the form of diffusioon bee, though i found this restrictive both in terms of the model i could use, and the features avalible to me. I bit the bullet and intalled the full suit in the form of automatic 1111. The improvement was instant, even though i kind of already knew how to use the software. After settling in and rebuilding a modle using the dreambooth website/google colab site, I stated messing around with video generation, which has been fun. I've been using the deforum externtion, it's all been alot of fun, though i'm knackered. next step is to get a verision of chatgpt running.
+
+**Today's Problems**: 
+*  lack of computing power!
+*  
+
+**Thoughts**: Enjoying it
+
+**Link(s) to work**
+1. [dreamooth](https://colab.research.google.com/github/ShivamShrirao/diffusers/blob/main/examples/dreambooth/DreamBooth_Stable_Diffusion.ipynb?authuser=1#scrollTo=jXgi8HM4c-DA)
+2. []()
+3. []()
+
+
 ### Day 1: March 27, Monday
 
 **Today's Progress**: 

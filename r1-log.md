@@ -62,3 +62,6 @@ Continued with project odin, completed another exercise. Also continued on my qu
 
 ### R2D3
 Worked through another exercise, completed it without support, syntax is coming back! Completed the reversing text exercise, enjoyed it, exactly the right amount of challenge, looking forward to it ramping up though.
+
+### R2D4
+I've really got into generating AI art, it've been terrible at keeping the log, but seem to have rediscovered my spark, burning the midnight oil long into the small hours. Felt good, going to get back to project odin soon.
