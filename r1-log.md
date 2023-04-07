@@ -65,3 +65,6 @@ Worked through another exercise, completed it without support, syntax is coming 
 
 ### R2D4
 I've really got into generating AI art, it've been terrible at keeping the log, but seem to have rediscovered my spark, burning the midnight oil long into the small hours. Felt good, going to get back to project odin soon.
+
+### R2D5
+Today i added a full blog to my website, I created a new page to display is, a database to store the posts, and another page to add posts. I was absolutely blown away when i got it all to work.

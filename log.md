@@ -344,6 +344,22 @@ Didn't manage to fix the bug, did manage to replicate it. Did manage to restart 
 3. []()
 
 
+### Day 5: April 7, Friday
+
+**Today's Progress**: What a day! I added a full blog to my website. I did it all myself, from designing the display page, to building the database, to adding the add post page. I wanted to do this for ages, really happy that it all works, it really wasn't that bad once i got into it, I should probably write a tutorial video for it!
+
+**Today's Problems**: 
+*  The display page is a little ugly
+*  The add post page is ugly
+
+**Thoughts**: I should improve both these pages, making this look nice, not just be functional, is something i've struggled with, I need to address this weakness
+
+**Link(s) to work**
+1. [My blog](https://github.com/mattb00ker/homeWebsite/blob/main/blog.php)
+2. [Add post](https://github.com/mattb00ker/homeWebsite/blob/main/addblog.php)
+3. [add post fuctionality](https://github.com/mattb00ker/homeWebsite/blob/main/addPost.php)
+
+
 ### Day 1: March 27, Monday
 
 **Today's Progress**: 
