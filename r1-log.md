@@ -68,3 +68,6 @@ I've really got into generating AI art, it've been terrible at keeping the log, 
 
 ### R2D5
 Today i added a full blog to my website, I created a new page to display is, a database to store the posts, and another page to add posts. I was absolutely blown away when i got it all to work.
+
+### R2D6
+I've kept going, really thrown myself into AI, messing around with both chat GPT clones, and image generation. Really been enjoying learning the finer art of both system. What i havent been very good at is keeping track with what i've been doing!

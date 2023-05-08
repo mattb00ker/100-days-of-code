@@ -360,6 +360,38 @@ Didn't manage to fix the bug, did manage to replicate it. Did manage to restart 
 3. [add post fuctionality](https://github.com/mattb00ker/homeWebsite/blob/main/addPost.php)
 
 
+### Day 6: May 7, Sunday
+
+**Today's Progress**: I havent actually had a day away from some form of coding, waht i am obviously not very good at is continuely recording what i am doing. I'm setting a reminder on my phone now. I have really got into AI. The two main fields i have been enjoying playing with have been text generation (be it from chat gtp or a locally hosted model), and image generation. I started using apps on my phone (starryai and others), before graduating to diffusionbee on my laptop, and the stablediffusion proper, using automatic1111. I have downloaded countless models, loras, lycos', txtembedding, and have learned a massive amount.
+
+**Today's Problems**: 
+*  need to be more consistant with my updates
+*  
+
+**Thoughts**: We'll see what happens tomorrow
+
+**Link(s) to work**
+1. []()
+2. []()
+3. []()
+
+
+### Day 1: March 27, Monday
+
+**Today's Progress**: 
+
+**Today's Problems**: 
+*  
+*  
+
+**Thoughts**: 
+
+**Link(s) to work**
+1. []()
+2. []()
+3. []()
+
+
 ### Day 1: March 27, Monday
 
 **Today's Progress**: 
